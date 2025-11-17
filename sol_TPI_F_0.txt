@@ -1,0 +1,10 @@
+instance: TPI_F_0.txt
+status: ok
+objective: 165.000000
+open_facilities:
+1
+2
+assignments:
+1 2
+1 3
+2 1
